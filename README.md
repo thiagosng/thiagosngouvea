@@ -9,10 +9,10 @@ Bem vindo(a) ao meu github !
  - 👨‍💻Aprimorando conhecimentos sobre Front-End 
  - 🔎Atualmente aberto a novas oportunidades
  - 📞Redes para contato :  
-```markdown
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagonunes026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gouv%C3%AAa-aa3bb915a/)
-```
+
 ### Linguagens conhecidas
 
 Essas são algumas das linguagens em que estou me aprimorando.
