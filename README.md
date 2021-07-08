@@ -35,6 +35,7 @@ Principais tecnologias utilizadas nos projetos que tenho participado entre eles 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-222222?style=flat&logo=spring&logoColor=green)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=violet)
 ![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=blue)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 ### Metas de aprendizado
 
