@@ -5,7 +5,7 @@
 
 Bem vindo(a) ao meu github !
 
- - 👨‍🎓Estudante de Ciência da Computação na UNIFAVIP WYDEN -  8º Periodo do curso
+ - 👨‍🎓Cientista da Computação formado na UNIFAVIP-WYDEN
  - 👨‍💻Aprimorando conhecimentos sobre Front-End 
  - 🔎Atualmente aberto a novas oportunidades
  - 📞Redes para contato :  
