@@ -6,8 +6,7 @@
 Bem vindo(a) ao meu github !
 
  - 👨‍🎓Cientista da Computação formado na UNIFAVIP-WYDEN
- - 👨‍💻Aprimorando conhecimentos sobre Front-End 
- - 🔎Atualmente aberto a novas oportunidades
+ - 👨‍💻Desenvolvedor Full-Cycle
  - 📞Redes para contato :  
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagonunes026@gmail.com)
